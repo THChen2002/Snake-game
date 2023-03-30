@@ -1,2 +1,2 @@
 # Snake-game
-Use java to create snake game
+Use Java to create snake game
